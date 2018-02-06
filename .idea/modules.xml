@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstSeleniumTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstSeleniumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstSeleniumTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstSeleniumTest_main.iml" group="FirstSeleniumTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstSeleniumTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstSeleniumTest_test.iml" group="FirstSeleniumTest" />
+    </modules>
+  </component>
+</project>
