@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="FirstSeleniumTest_main" target="1.8" />
       <module name="FirstSeleniumTest_test" target="1.8" />
+      <module name="TrelloSeleniumProject_main" target="1.8" />
+      <module name="TrelloSeleniumProject_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
